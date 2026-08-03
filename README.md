@@ -1,1 +1,1 @@
-# Pranjal2413
+# Stock Sentiment analysis
